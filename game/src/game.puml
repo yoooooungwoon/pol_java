@@ -1,0 +1,11 @@
+@startuml
+class Hero{
+    int hp
+    +void attack()
+}
+
+class Wizard
+
+@enduml
+
+
